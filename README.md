@@ -1,8 +1,7 @@
 ## Bem-vindo(a) ao perfil do Thiago Periard Martins 😁
 
 *Streamer de jogos - Youtube e Twitch.
-*Estudante de analise e desenvolvimento de sistemas - Uninter.
-*Procurando estagio.
+   *Estudante de analise e desenvolvimento de sistemas - Uninter.
 
  <div>
    <a href="https://github.com/thiagoM1985">
